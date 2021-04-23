@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/imman/source/repos/CarGame/CarGame/Content/Car.png","C:/Users/imman/source/repos/CarGame/CarGame/Content/bin/DesktopGL/Car.xnb","TextureProcessor","Texture2DContent",612,16469,0.1490021
+"C:/Users/imman/source/repos/CarGame/CarGame/Content/GasCan.png","C:/Users/imman/source/repos/CarGame/CarGame/Content/bin/DesktopGL/GasCan.xnb","TextureProcessor","Texture2DContent",227,4181,0.0027461
+"C:/Users/imman/source/repos/CarGame/CarGame/Content/Score.spritefont","C:/Users/imman/source/repos/CarGame/CarGame/Content/bin/DesktopGL/Score.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.0946317

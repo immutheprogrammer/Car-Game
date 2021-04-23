@@ -17,7 +17,7 @@ when I am older I want to work in the games industry
 
 
 
-Building On Linux and Mac:
+Running On Linux and Mac:
 
 To run on linux and mac you have to install https://www.mono-project.com/download/stable/ (mono runtime) then you need to go into 
 termial and go to the directory the CarGame.exe file is in and type in "mono CarGame.exe" and that should open the game!

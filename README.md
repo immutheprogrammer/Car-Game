@@ -20,4 +20,4 @@ when I am older I want to work in the games industry
 Building On Linux and Mac:
 
 To build on linux and mac you have to install https://www.mono-project.com/download/stable/ (mono runtime) then you need to go into 
-termial and type in mono CarGame.exe and that should open the game!
+termial and type in "mono CarGame.exe" and that should open the game!

@@ -7,6 +7,8 @@ btw idk if my code is bad becuase im new to monogame and c# so...
 
 This game tought me about the basics of monogame and c#!
 
+you can also get the .exe file aswell without the source code. 
+
 About Me:
 
 I am a 12 year old game dev!
